@@ -1,6 +1,18 @@
 # 🎬 MovieBot: AI-Powered Movie Trivia Chatbot
 
-![MovieBot Banner](https://via.placeholder.com/800x200/000000/FFFFFF?text=MovieBot+-+Your+Movie+Trivia+Expert) <!-- Replace with actual banner if available -->
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║                    🎥 WELCOME TO MOVIEBOT 🎥                               ║
+║                                                                            ║
+║          Your AI-Powered Movie Trivia Expert & Chat Companion             ║
+║                                                                            ║
+║          🎬 Ask about films, directors, actors, and awards! 🎬            ║
+║                                                                            ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+> *Built with LangChain, Ollama, and Gradio for an immersive movie experience*
 
 A sophisticated Retrieval-Augmented Generation (RAG) chatbot that answers movie trivia questions using local AI models and document-based knowledge retrieval. Built with LangChain, Ollama, and Gradio for an interactive web interface.
 
